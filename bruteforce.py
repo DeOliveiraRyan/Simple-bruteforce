@@ -30,3 +30,5 @@ for i in digits:
         break
 
 print("A senha é", senha)
+
+main()
